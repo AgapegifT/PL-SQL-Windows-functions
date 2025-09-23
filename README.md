@@ -3,7 +3,7 @@ PL/SQL assignment on window functions: ranking, aggregates with frames, navigati
 
 # PL/SQL Window Functions Assignment
 
-## 📌 Business Problem
+## Business Problem
 FreshDirect, a company running micro-fulfillment hubs for fresh produce in Kigali and surrounding regions, needs to analyze sales data to improve decision-making.  
 Management wants to:
 - Identify top products per hub and quarter
@@ -13,7 +13,7 @@ Management wants to:
 
 ---
 
-## 🎯 Success Criteria
+## Success Criteria
 1. **Top-5 products per hub & quarter** using `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, and `PERCENT_RANK()`.  
 2. **Running monthly sales totals** with `SUM() OVER`.  
 3. **Month-over-month growth %** using `LAG()`.  
