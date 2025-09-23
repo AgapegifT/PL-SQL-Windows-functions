@@ -1,12 +1,7 @@
 # PL-SQL-Windows-functions
-PL/SQL assignment on window functions: ranking, aggregates with frames, navigation, and distribution, applied to a micro-hub fresh produce business case.
+PL/SQL assignment on window functions: ranking, aggregates with frames, navigation, and distribution, To Be Applied on a micro-hub fresh produce business case.
 
-# PL/SQL Window Functions Assignment (Oracle 21c)
-
-**Student:** [Your Full Name]  
-**Course:** [Course Name or Code]  
-
----
+# PL/SQL Window Functions Assignment
 
 ## 📌 Business Problem
 FreshDirect, a company running micro-fulfillment hubs for fresh produce in Kigali and surrounding regions, needs to analyze sales data to improve decision-making.  
